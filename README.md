@@ -1,6 +1,6 @@
 # AndroidDev
-Android Development Class CS646 Final Project
-by Jim Fitzgerald and Donglin Lao
+Android Development Class Final Project
+
 
 
 **How our project works**:
